@@ -70,15 +70,16 @@ Report → Verify → Alert → Resolve
 
 ## 🛠 Technology Stack
 
-Technology	                 Purpose
+| Technology | Purpose |
+|---|---|
+| HTML5 | Page structure |
+| CSS3 | Responsive layout and visual design |
+| Vanilla JavaScript | Form handling, filtering, status updates, and demo logic |
+| Leaflet | Interactive map |
+| OpenStreetMap | Map tiles and map data attribution |
+| Browser `localStorage` | Saving demo reports in the current browser |
+| Browser Geolocation API | Optional location capture |
 
-HTML5	                     Page structure
-CSS3	                      Responsive layout and visual design
-Vanilla JavaScript	        Form handling, filtering, status updates, and demo logic
-Leaflet	                   Interactive map
-OpenStreetMap         	    Map tiles and map data attribution
-Browser localStorage  	    Saving demo reports in the current browser
-Browser Geolocation API    Optional location capture
 
 ## 📁 Project Structure
 
