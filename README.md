@@ -89,15 +89,13 @@ Option 1: Open the HTML file
 2. Open index.html in a modern browser.
 3. Keep an internet connection available for the map library and map tiles.
    
-Option 2: Run a local web server
-From the project directory, run:  python -m http.server 8000
-Then open:  http://localhost:8000
-
 
 📁 Project Structure
 
 roadguard/
+
 ├── index.html     # Responsive interactive front-end demo
+
 └── README.md      # Project overview and setup instructions
 
 
